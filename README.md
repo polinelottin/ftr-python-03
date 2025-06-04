@@ -13,8 +13,6 @@ A simple real-time chat application built with Flask and WebSocket technology.
 - Python 3.x
 - Flask
 - Flask-SocketIO
-- Flask-SQLAlchemy
-- pytest (for testing)
 
 ## Installation
 
